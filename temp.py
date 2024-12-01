@@ -23,7 +23,7 @@ def page_1():
     image = Image.open('Credit_Risk.jpg')
 
     ## Displaying the image:
-    st.image(image,use_container_width="always")
+    ##st.image(image,use_container_width="always")
 
     ## Headers:
     st.title("Welcome to this Mock Credit Risk Simulator")
